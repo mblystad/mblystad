@@ -2,7 +2,7 @@
 
 👀 I’m interested in software development for day to day effectivisation
 
-🌱 I’m currently learning new technologies
+🌱 I’m currently learning the basic functions of programming and love using what I know, supplemented by LLMs such as Copilot and ChatGTP to make fun little projects.
 
 💞️ I’m looking to collaborate on exciting projects
 
